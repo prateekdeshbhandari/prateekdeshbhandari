@@ -1,9 +1,9 @@
 # 💫 About Me:
 🎓 I’m a final-year student<br>
-💼 I’m currently doing an internship
-🔍 I’m looking for internship and job opportunities
-🌱 I’m currently learning Java and Spring Boot
-🤝 I’m open to collaboration on Java / Spring Boot projects
+💼 I’m currently doing an internship<br>
+🔍 I’m looking for internship and job opportunities<br>
+🌱 I’m currently learning Java and Spring Boot<br>
+🤝 I’m open to collaboration on Java / Spring Boot projects<br>
 
 
 # 💻 Tech Stack:
