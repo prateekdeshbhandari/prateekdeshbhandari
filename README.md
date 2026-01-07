@@ -1,5 +1,9 @@
 # 💫 About Me:
-i am student <br>i am learning java fullstack
+🎓 I’m a final-year student
+💼 I’m currently doing an internship
+🔍 I’m looking for internship and job opportunities
+🌱 I’m currently learning Java and Spring Boot
+🤝 I’m open to collaboration on Java / Spring Boot projects
 
 
 # 💻 Tech Stack:
