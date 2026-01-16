@@ -1,5 +1,6 @@
 # 💫 About Me:
 🎓 I’m a final-year student<br>
+🎓 Currently Studying Information science & Engineering<br>
 💼 I’m currently doing an internship<br>
 🔍 I’m looking for internship and job opportunities<br>
 🌱 I’m currently learning Java and Spring Boot<br>
