@@ -1,10 +1,5 @@
 # 💫 About Me:
-🎓 I’m a final-year student<br>
-🎓 Currently Studying Information science & Engineering<br>
-💼 I’m currently doing an internship<br>
-🔍 I’m looking for internship and job opportunities<br>
-🌱 I’m currently learning Java and Spring Boot<br>
-🤝 I’m open to collaboration on Java / Spring Boot projects<br>
+Final-year Information Science student passionate about building scalable and efficient applications. Currently learning Java, Spring Boot, and Web Development while strengthening my understanding of backend technologies and software development principles. Interested in gaining hands-on experience through internships and collaborating on real-world projects. Always eager to learn, grow, and contribute to innovative solutions.
 
 
 # 💻 Tech Stack:
