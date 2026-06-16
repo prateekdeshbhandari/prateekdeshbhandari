@@ -1,16 +1,16 @@
 # 👋 Hey Folks, I'm Prateek Deshbhandari
 
-### Java Developer | Spring Boot Enthusiast | Full Stack Learner
+### Java Developer |  Full Stack Learner
 
-🌱 I'm a final-year Information Science Engineering student passionate about building scalable and efficient applications.
+🌱 I'm a Information Science Engineering student passionate about building scalable and efficient applications.
 
 💻 Currently learning Java, Spring Boot, and modern Web Development technologies.
 
-🚀 Interested in backend development, REST APIs, and full-stack applications.
+. Interested in backend development, REST APIs, and full-stack applications.
 
-🤝 Open to internship opportunities and collaborating on exciting projects.
 
-📫 Reach me at **pnaik8241@gmail.com**
+
+📫 Reach me at **prateekdeshbhandari@gmail.com**
 
 ---
 
@@ -44,18 +44,16 @@ height="50" />
 - Database Management Systems
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateekdeshbhandari&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateekdeshbhandari&theme=tokyonight" width="48%">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prateekdeshbhandari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prateekdeshbhandari&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekdeshbhandari&layout=compact&theme=tokyonight" width="40%">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekdeshbhandari&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 🚀 Looking to Collaborate On
