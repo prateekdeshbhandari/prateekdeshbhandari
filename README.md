@@ -47,15 +47,13 @@ height="50" />
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prateekdeshbhandari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prateekdeshbhandari&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prateekdeshbhandari&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=prateekdeshbhandari&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekdeshbhandari&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekdeshbhandari&layout=compact&theme=github_dark&hide_border=true" />
 </p>
----
-
 ## 🚀 Looking to Collaborate On
 
 - Java Projects
