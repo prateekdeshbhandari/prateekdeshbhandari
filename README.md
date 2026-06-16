@@ -8,7 +8,84 @@
 
 # 💻 Tech Stack
 
+### Languages# 👋 Hi, I'm Prateek Deshbhandari
+
+🎓 Final-year Information Science Engineering student
+💻 Aspiring Java Backend Developer
+🌱 Currently learning Java, Spring Boot, and Web Development
+🚀 Passionate about building scalable and efficient applications
+🤝 Open to internships and collaboration opportunities
+📫 Reach me at: pnaik8241@gmail.com
+
+---
+
+# 💫 About Me
+
+I am a final-year Information Science Engineering student with a strong interest in backend development and modern web technologies. I am currently enhancing my skills in Java, Spring Boot, and full-stack web development while strengthening my understanding of software engineering principles and database management.
+
+I enjoy solving real-world problems through code and continuously exploring new technologies. I am actively seeking opportunities to gain practical experience, contribute to impactful projects, and grow as a software developer.
+
+---
+
+# 🛠️ Tech Stack
+
 ### Languages
+- Java
+- Python
+- JavaScript
+- C
+
+### Backend
+- Spring Boot
+- REST APIs
+
+### Frontend
+- HTML5
+- CSS3
+- React
+
+### Databases
+- MySQL
+- MongoDB
+- Microsoft SQL Server
+
+### Cloud Platforms
+- AWS
+- Microsoft Azure
+
+### Data Science Libraries
+- NumPy
+- Pandas
+
+### Tools & Version Control
+- Git
+- GitHub
+
+---
+
+# 🌱 Currently Learning
+
+- Core Java
+- Spring Boot
+- RESTful API Development
+- React Fundamentals
+- Database Design and Management
+- Data Structures and Algorithms
+
+---
+
+# 🤝 Looking to Collaborate On
+
+- Java and Spring Boot projects
+- Backend development applications
+- Full-stack web development projects
+- Open-source contributions
+
+---
+
+# 📊 GitHub Stats
+
+<!-- GitHub Stats -->
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
