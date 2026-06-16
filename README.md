@@ -47,20 +47,13 @@ height="50" />
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prateekdeshbhandari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=prateekdeshbhandari&theme=tokyonight&hide_border=true&background=0D1117"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prateekdeshbhandari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9" />
+
+  <img width="49%" src="https://streak-stats.demolab.com?user=prateekdeshbhandari&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekdeshbhandari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prateekdeshbhandari&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prateekdeshbhandari&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekdeshbhandari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </p>
 ## 🚀 Looking to Collaborate On
 
