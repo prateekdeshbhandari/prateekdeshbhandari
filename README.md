@@ -29,7 +29,7 @@ height="50" />
 ## 💻 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,react,mysql,mongodb,git,github,aws,azure,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,idea,js,html,css,react,mysql,mongodb,git,github,vscode" />
 </p>
 
 ---
