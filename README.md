@@ -11,7 +11,7 @@
 
 ## 🚀 Live Portfolio
 
-👉 https://prateekdeshbhandari.github.io/portfolio-/
+👉 prateekdeshbhandari.github.io/portfolio-/
 
 📫 Reach me at **prateekdeshbhandari@gmail.com**
 
