@@ -7,7 +7,9 @@
 💻 Currently learning Java, Spring Boot, and modern Web Development technologies.
 
 . Interested in backend development, REST APIs, and full-stack applications.
+## 🌐 Live Portfolio
 
+[🔗 Visit My Portfolio](https://prateekdeshbhandari.github.io/portfolio-/)
 
 ## 🚀 Live Portfolio
 
