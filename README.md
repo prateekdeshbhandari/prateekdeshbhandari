@@ -1,6 +1,6 @@
 # 👋 Hey Folks, I'm Prateek Deshbhandari
 
-### Java Developer |  Full Stack Learner
+### Java Developer |  Full Stack Developer
 
 🌱 I'm a Information Science Engineering student passionate about building scalable and efficient applications.
 
