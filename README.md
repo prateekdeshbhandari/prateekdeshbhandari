@@ -19,14 +19,29 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/" target="blank">
-<img align="center"
-src="https://skillicons.dev/icons?i=linkedin"
-height="50" />
-</a>
-</p>
 
----
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/" target="_blank">
+    <img align="center"
+         src="https://skillicons.dev/icons?i=linkedin"
+         height="50" />
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/Prateek_dd/" target="_blank">
+    <img align="center"
+         src="https://skillicons.dev/icons?i=leetcode"
+         height="50" />
+  </a>
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/prateekdeshbhan1" target="_blank">
+    <img align="center"
+         src="https://skillicons.dev/icons?i=hackerrank"
+         height="50" />
+  </a>
+
+</p>
 
 ## 💻 Tech Stack
 <p align="left">
