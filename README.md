@@ -26,21 +26,30 @@ height="50" />
 </a>
 </p>
 
+<p align="left">
 
+  <!-- LeetCode -->
   <a href="https://leetcode.com/u/Prateek_dd/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116"
-         width="50"
-         height="50"
-         alt="LeetCode" />
+    <img
+      src="https://img.icons8.com/?size=100&id=9L16NypU0pP2&format=png&color=000000"
+      width="50"
+      height="50"
+      alt="LeetCode"
+    />
   </a>
-  &nbsp;&nbsp;
 
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- HackerRank -->
   <a href="https://www.hackerrank.com/profile/prateekdeshbhan1" target="_blank">
-    <img src="https://cdn.simpleicons.org/hackerrank/00EA64"
-         width="50"
-         height="50"
-         alt="HackerRank" />
+    <img
+      src="https://img.icons8.com/?size=100&id=OUPsEPLKIY9A&format=png&color=000000"
+      width="50"
+      height="50"
+      alt="HackerRank"
+    />
   </a>
+
 </p>
 
 ## 💻 Tech Stack
