@@ -31,7 +31,7 @@ height="50" />
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/Prateek_dd/" target="_blank">
     <img
-      src="https://img.icons8.com/?size=100&id=9L16NypU0pP2&format=png&color=000000"
+    
       width="50"
       height="50"
       alt="LeetCode"
@@ -43,7 +43,7 @@ height="50" />
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/profile/prateekdeshbhan1" target="_blank">
     <img
-      src="https://img.icons8.com/?size=100&id=OUPsEPLKIY9A&format=png&color=000000"
+    
       width="50"
       height="50"
       alt="HackerRank"
