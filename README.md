@@ -27,23 +27,22 @@ height="50" />
 </p>
 
 <p align="left">
+<p align="left">
 
-  <!-- LeetCode -->
   <a href="https://leetcode.com/u/Prateek_dd/" target="_blank">
     <img
-    
+      src="https://cdn.simpleicons.org/leetcode/FFA116"
       width="50"
       height="50"
       alt="LeetCode"
     />
   </a>
 
-  &nbsp;&nbsp;&nbsp;
 
-  <!-- HackerRank -->
+
   <a href="https://www.hackerrank.com/profile/prateekdeshbhan1" target="_blank">
     <img
-    
+      src="https://cdn.simpleicons.org/hackerrank/00EA64"
       width="50"
       height="50"
       alt="HackerRank"
