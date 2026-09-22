@@ -25,7 +25,7 @@ src="https://skillicons.dev/icons?i=linkedin"
 height="50" />
 </a>
 </p>
-  &nbsp;&nbsp;
+
 
   <a href="https://leetcode.com/u/Prateek_dd/" target="_blank">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116"
