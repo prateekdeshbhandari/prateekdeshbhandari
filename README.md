@@ -19,12 +19,12 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2"
-         width="50"
-         height="50"
-         alt="LinkedIn" />
-  </a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/" target="blank">
+<img align="center"
+src="https://skillicons.dev/icons?i=linkedin"
+height="50" />
+</a>
+</p>
   &nbsp;&nbsp;
 
   <a href="https://leetcode.com/u/Prateek_dd/" target="_blank">
